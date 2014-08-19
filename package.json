@@ -1,5 +1,8 @@
 {
   "name": "KiiSDK-on-nodejs",
+  "engines": {
+    "node": ">=0.10.26"
+  },
   "dependencies": {
     "node-jquery-xhr": "1.8.3"
   }
