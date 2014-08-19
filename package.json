@@ -1,0 +1,7 @@
+{
+  "name": "KiiSDK-on-nodejs",
+  "dependencies": {
+    "node-jquery-xhr": "1.8.3"
+  }
+}
+
