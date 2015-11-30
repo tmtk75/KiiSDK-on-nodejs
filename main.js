@@ -1,4 +1,4 @@
-require("node-jquery-xhr");
+require("jquery-xhr");
 var KiiSDK = require("./KiiSDK.js");
 var root = KiiSDK.create();
 ["Kii", "KiiUser", "KiiSite"].map(function(e) { eval(e + " = root." + e) });

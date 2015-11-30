@@ -4,7 +4,7 @@
     "node": ">=0.10.26"
   },
   "dependencies": {
-    "node-jquery-xhr": "1.8.3"
+    "jquery-xhr": "git://github.com/tmtk75/jquery-xhr.git#v1.11.3"
   }
 }
 
